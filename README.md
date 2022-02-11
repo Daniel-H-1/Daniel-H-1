@@ -7,7 +7,7 @@
 -Aprendendo Python para depois conhecer como se desenvolve análise de dados com Python; <br>
 -Tenho conhecimento em MySQL tanto de inserção de dados e consulta básica com conhecimento de operadores especiais. <br>
 
-<div align="">
+<div align="center">
   <a href="https://github.com/Daniel-H-1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel-H-1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-H-1&layout=compact&langs_count=7&theme=dark"/>
