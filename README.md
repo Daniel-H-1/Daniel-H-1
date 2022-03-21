@@ -2,7 +2,6 @@
 
 -Atualmente estou buscando conhecimento sobre análise de dados:
 
--Estudante na escola do trabalhador 4.0 sobre análise de dados; <br>
 -Estudando Power BI conhecendo melhor a ferramenta; <br>
 -Aprendendo Python para depois conhecer como se desenvolve análise de dados com Python; <br>
 -Tenho conhecimento em MySQL tanto de inserção de dados e consulta básica com conhecimento de operadores especiais. <br>
