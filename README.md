@@ -2,10 +2,10 @@
 
 -Atualmente estou buscando conhecimento sobre análise de dados:
 
--Estudando para a Certificação DP-900 na FAT. <br>
--Estudando Power BI conhecendo melhor a ferramenta; <br>
+-Estudando para a Certificação DP-900 na FAT, lendo o material no Microsoft Learning. <br>
 -Aprendendo Python para depois conhecer como se desenvolve análise de dados com Python; <br>
 -Tenho conhecimento em MySQL tanto de inserção de dados e consulta básica com conhecimento de operadores especiais. <br>
+-Conheço as funcionalidades básicas do Power BI e futuramente pretendo tirar a certificação PL-900.
 
 <div align="center">
   <a href="https://github.com/Daniel-H-1">
