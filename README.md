@@ -2,6 +2,7 @@
 
 -Atualmente estou buscando conhecimento sobre análise de dados:
 
+-Estudando para a Certificação DP-900 na FAT. <br>
 -Estudando Power BI conhecendo melhor a ferramenta; <br>
 -Aprendendo Python para depois conhecer como se desenvolve análise de dados com Python; <br>
 -Tenho conhecimento em MySQL tanto de inserção de dados e consulta básica com conhecimento de operadores especiais. <br>
