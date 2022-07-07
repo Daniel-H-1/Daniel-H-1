@@ -22,7 +22,7 @@
  - <b> Curso Python (Projeto 100 Exercícios) </b> <br>
  Disponível em: https://github.com/Daniel-H-1/Projeto-Python
 
- - <b> Desenvolvimento de Portal (Portal apresenta o conteúdo do Artigo) </b>. <br>
+ - <b> Desenvolvimento de Portal (Portal apresenta o conteúdo do Artigo) </b> <br>
  Disponível em: file:///C:/Users/danie/Documents/Desenvolvimento%20de%20Portal%20-%20Vers%C3%A3o%20Completa/Desenvolvimento-de-Portal-main/index.html
 <h2> </h2>
 
