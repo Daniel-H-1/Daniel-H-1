@@ -22,7 +22,7 @@
  - <b> Curso Python (Projeto 100 Exercícios) </b> <br>
  Disponível em: https://github.com/Daniel-H-1/Projeto-Python
 
- - <b> Desenvolvimento de Portal (Portal apresenta o conteúdo do Artigo) </b>.
+ - <b> Desenvolvimento de Portal (Portal apresenta o conteúdo do Artigo) </b>. <br>
  Disponível em: file:///C:/Users/danie/Documents/Desenvolvimento%20de%20Portal%20-%20Vers%C3%A3o%20Completa/Desenvolvimento-de-Portal-main/index.html
 <h2> </h2>
 
@@ -49,6 +49,6 @@
 
 <h2 align="center">Contatos</h2>
 <div align="center">
-  <a href="danielheber0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-  <a href="https://www.linkedin.com/in/daniel-h-s-l-junior)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+  <a href="https://www.linkedin.com/in/daniel-h-s-l-junior"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
