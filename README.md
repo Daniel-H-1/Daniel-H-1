@@ -50,5 +50,5 @@
 <h2 align="center">Contatos</h2>
 <div align="center">
   <a href="danielheber0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-  <a href="[linkedin.com/in//daniel-h-s-l-junior](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B3ZXTESRMTHyL89ZRoHjtDA%3D%3D)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/daniel-h-s-l-junior)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
