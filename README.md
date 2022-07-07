@@ -1,11 +1,32 @@
-# Olá, sou o Daniel Junior, estudante de GTI na UNISA!!!
+# Olá, sou o Daniel Heber da Silva Lima Junior!
 
--Atualmente estou buscando conhecimento sobre análise de dados:
+<h2 align="center">Conquistas</h2>
 
--Estudando para a Certificação DP-900 na FAT, lendo o material no Microsoft Learning. <br>
--Aprendendo Python para depois conhecer como se desenvolve análise de dados com Python; <br>
--Tenho conhecimento em MySQL tanto de inserção de dados e consulta básica com conhecimento de operadores especiais. <br>
--Conheço as funcionalidades básicas do Power BI e futuramente pretendo tirar a certificações de Data Analitycs da Microsoft.
+ - Bolsa de 100% em Gestão da Tecnologia da Informação com nota do ENEM.
+ - Melhor nota da turma na Prova do ENADE.
+ - Certificação de Azure Data Fundamentals da Microsoft.
+ - Concluindo o Ensino Superior em Gestão da Tecnologia da Informação.
+ 
+ <h2></h2>
+ <h2 align="center">Principais Atividades</h2>
+ 
+ - <b> Capacitador da ferramenta Microsoft Excel (START UNISA) </b> <br>
+ Disponível em: https://drive.google.com/file/d/1DMVfacifZ68g0fublhtFFQL9IoNQdDFR/view?usp=sharing
+ 
+ - <b> Desenvolvimento de Banco de Dados Relacional (Banco Imóveis) </b> <br>
+ Disponível em: https://github.com/Daniel-H-1/DB-Imoveis
+ 
+ - <b> Artigo Científico com Modelagem de Processos (Processamento de Linguagem Natural aplicada ao Sistema Acadêmico) <b> <br>
+ Disponível em: https://drive.google.com/file/d/1odrU5INF2XXGSWnWl0isBHvHE7JPDT2N/view?usp=sharing
+ 
+ - <b> Curso Python (Projeto 100 Exercícios) </b> <br>
+ Disponível em: https://github.com/Daniel-H-1/Projeto-Python
+
+ - <b> Desenvolvimento de Portal (Portal apresenta o conteúdo do Artigo) </b>.
+ Disponível em: file:///C:/Users/danie/Documents/Desenvolvimento%20de%20Portal%20-%20Vers%C3%A3o%20Completa/Desenvolvimento-de-Portal-main/index.html
+<h2> </h2>
+
+<h2 align="center"> Comits e Linguagens </h2>
 
 <div align="center">
   <a href="https://github.com/Daniel-H-1">
@@ -23,4 +44,11 @@
   
   ![Snake animation](https://github.com/Daniel-H-1/Daniel-H-1/blob/output/github-contribution-grid-snake.svg)
   
+</div>
+<h2></h2>
+
+<h2 align="center">Contatos</h2>
+<div align="center">
+  <a href="danielheber0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+  <a href="linkedin.com/in//daniel-h-s-l-junior"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
