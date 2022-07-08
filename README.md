@@ -1,13 +1,5 @@
 # Olá, sou o Daniel Heber da Silva Lima Junior!
 
-<h2 align="center">Conquistas</h2>
-
- - Bolsa de 100% em Gestão da Tecnologia da Informação com nota do ENEM.
- - Melhor nota da turma na Prova do ENADE.
- - Certificação de Azure Data Fundamentals da Microsoft.
- - Concluindo o Ensino Superior em Gestão da Tecnologia da Informação.
- 
- <h2></h2>
  <h2 align="center">Principais Atividades</h2>
  
  - <b> Capacitador da ferramenta Microsoft Excel (START UNISA) </b> <br>
