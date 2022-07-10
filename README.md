@@ -2,7 +2,6 @@
 
  <h2 align="center">Principais Atividades</h2>
  
- - <b> Portifólio em Desenvolvimento </b>
  
  - <b> Capacitador da ferramenta Microsoft Excel (START UNISA) </b> <br>
  Disponível em: https://drive.google.com/file/d/1DMVfacifZ68g0fublhtFFQL9IoNQdDFR/view?usp=sharing
