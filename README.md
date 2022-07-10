@@ -2,7 +2,7 @@
 
  <h2 align="center">Principais Atividades</h2>
  
- - <b> Portifólio em Desenvolvimento.
+ - <b> Portifólio em Desenvolvimento </b>
  
  - <b> Capacitador da ferramenta Microsoft Excel (START UNISA) </b> <br>
  Disponível em: https://drive.google.com/file/d/1DMVfacifZ68g0fublhtFFQL9IoNQdDFR/view?usp=sharing
@@ -18,7 +18,9 @@
 
  - <b> Desenvolvimento de Portal (Portal apresenta o conteúdo do Artigo) </b> <br>
  Disponível em: file:///C:/Users/danie/Documents/Desenvolvimento%20de%20Portal%20-%20Vers%C3%A3o%20Completa/Desenvolvimento-de-Portal-main/index.html
-<h2> </h2>
+
+ - <b> Portifólio em Desenvolvimento </b>
+ <h2> </h2>
 
 <h2 align="center"> Comits e Linguagens </h2>
 
