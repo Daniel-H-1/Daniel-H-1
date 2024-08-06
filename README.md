@@ -1,6 +1,17 @@
 # Olá, sou o Daniel Heber da Silva Lima Junior!
 
- <h2 align="center">Principais Atividades</h2>
+ <h2 align="center">Principais Atividades Atualmente</h2>
+
+ - <b> Analista de TI trabalhando em Gestão de Capacidade na Porto </b> <br>
+
+ - <b> Curso Superior em Ciência de Dados na UNIVESP </b> <br>
+
+ - <b> Bootcamp Data Analytics with Power BI </b> <br>
+
+ - <b> Projeto 100 Exercícios de Python - Congelado </b> <br>
+ Disponível em: https://github.com/Daniel-H-1/Projeto-Python
+
+ <h2 align="center">Principais Atividades Realizadas</h2>
  
  
  - <b> Capacitador da ferramenta Microsoft Excel (START UNISA) </b> <br>
@@ -11,15 +22,9 @@
  
  - <b> Artigo Científico com Modelagem de Processos (Processamento de Linguagem Natural aplicada ao Sistema Acadêmico) <b> <br>
  Disponível em: https://drive.google.com/file/d/1odrU5INF2XXGSWnWl0isBHvHE7JPDT2N/view?usp=sharing
- 
- - <b> Curso Python (Projeto 100 Exercícios) </b> <br>
- Disponível em: https://github.com/Daniel-H-1/Projeto-Python
 
  - <b> Desenvolvimento de Portal (Portal apresenta o conteúdo do Artigo) </b> <br>
  Disponível em: "file///C:/Users/danie/Documents/Desenvolvimento%20de%20Portal%20-%20Vers%C3%A3o%20Completa/Desenvolvimento-de-Portal-main/index.html"
-
- - <b> Portifólio em Desenvolvimento </b>
- <h2> </h2>
 
 <h2 align="center"> Comits e Linguagens </h2>
 
