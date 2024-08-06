@@ -7,6 +7,7 @@
  - <b> Curso Superior em Ciência de Dados na UNIVESP </b> <br>
 
  - <b> Bootcamp Data Analytics with Power BI </b> <br>
+ Disponível em: https://www.dio.me/users/danielheber0 
 
  - <b> Projeto 100 Exercícios de Python - Congelado </b> <br>
  Disponível em: https://github.com/Daniel-H-1/Projeto-Python
