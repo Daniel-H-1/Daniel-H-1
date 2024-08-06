@@ -1,6 +1,6 @@
 # Olá, sou o Daniel Heber da Silva Lima Junior!
 
- <h2 align="center">Principais Atividades Atualmente</h2>
+ <h2 align="center">Principais Atividades Atualmente</h2><br>
 
  - <b> Analista de TI trabalhando em Gestão de Capacidade na Porto </b> <br>
 
@@ -13,7 +13,12 @@
 
  <h2 align="center">Principais Atividades Realizadas</h2>
  
- 
+  - <b> Certificado na DP-900 (Data Azure Fundamentals) <b><br>
+ Disponível em: https://www.credly.com/badges/2d0b864d-0776-4947-95d4-a4c5369a76f6
+
+  - <b> Certificado Profissional de Análise de Dados do Google <b><br>
+ Disponível em: https://www.credly.com/badges/1268d3df-ffa2-4cd2-b840-db38aa8e10c4/public_url
+
  - <b> Capacitador da ferramenta Microsoft Excel (START UNISA) </b> <br>
  Disponível em: https://drive.google.com/file/d/1DMVfacifZ68g0fublhtFFQL9IoNQdDFR/view?usp=sharing
  
@@ -22,9 +27,7 @@
  
  - <b> Artigo Científico com Modelagem de Processos (Processamento de Linguagem Natural aplicada ao Sistema Acadêmico) <b> <br>
  Disponível em: https://drive.google.com/file/d/1odrU5INF2XXGSWnWl0isBHvHE7JPDT2N/view?usp=sharing
-
- - <b> Desenvolvimento de Portal (Portal apresenta o conteúdo do Artigo) </b> <br>
- Disponível em: "file///C:/Users/danie/Documents/Desenvolvimento%20de%20Portal%20-%20Vers%C3%A3o%20Completa/Desenvolvimento-de-Portal-main/index.html"
+<br>
 
 <h2 align="center"> Comits e Linguagens </h2>
 
