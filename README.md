@@ -47,6 +47,7 @@
 <div align="center">
   
   ![Snake animation](https://github.com/Daniel-H-1/Daniel-H-1/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Daniel-H-1/Daniel-H-1/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 <h2></h2>
