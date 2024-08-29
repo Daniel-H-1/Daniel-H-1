@@ -3,6 +3,7 @@
 <br>
 
  <h2 align="center">Principais Atividades Atualmente</h2>
+ 
  - <b> Analista de TI trabalhando em Gestão de Capacidade & Performance na Porto </b> <br>
 
  - <b> Curso Superior em Ciência de Dados na UNIVESP </b> <br>
