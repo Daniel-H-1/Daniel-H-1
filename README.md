@@ -1,5 +1,6 @@
 # Olá, sou o Daniel Heber da Silva Lima Junior!
 
+<br>
 
  <h2 align="center">Principais Atividades Atualmente</h2><br>
 
@@ -54,8 +55,8 @@
 
 <h2 align="center">Contato</h2>
 <div align="center">
-  <a target="blank" href="https://www.linkedin.com/in/daniel-h-s-l-junior">
+  <a target="_blank" href="https://www.linkedin.com/in/daniel-h-s-l-junior">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a target="blank" href="mailto:daniellheberjunior@gmail.com">
+ <a target="_blank" href="mailto:daniellheberjunior@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
