@@ -2,8 +2,7 @@
 
 <br>
 
- <h2 align="center">Principais Atividades Atualmente</h2><br>
-
+ <h2 align="center">Principais Atividades Atualmente</h2>
  - <b> Analista de TI trabalhando em Gestão de Capacidade & Performance na Porto </b> <br>
 
  - <b> Curso Superior em Ciência de Dados na UNIVESP </b> <br>
@@ -13,6 +12,9 @@
 
  - <b> Projeto 100 Exercícios de Python - Congelado </b> <br>
  Disponível em: https://github.com/Daniel-H-1/Projeto-Python
+
+<br>
+
 
  <h2 align="center">Principais Atividades Realizadas</h2>
  
