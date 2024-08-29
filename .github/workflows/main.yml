@@ -28,7 +28,7 @@ jobs:
     # Generates the snake  
       - uses: Platane/snk/svg-only@v3
         with:
-            github_user_name: ${{ github.repository_owner }}
+            github_user_name: Daniel-H-1
             outputs: |
               dist/github-snake.svg
 
@@ -50,8 +50,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # the output branch we mentioned above
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            
