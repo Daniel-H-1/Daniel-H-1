@@ -46,12 +46,14 @@
   <img align="center" height="70" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 <div align="center">
-  
+
+  ![snake gif](https://github.com/Daniel-H-1/Daniel-H-1/blob/output/github-contribution-grid-snake.gif)
   
 </div>
 <h2></h2>
 
 <h2 align="center">Contato</h2>
 <div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/daniel-h-s-l-junior"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/daniel-h-s-l-junior">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
