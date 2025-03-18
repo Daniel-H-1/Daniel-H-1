@@ -8,8 +8,11 @@
 
  - <b> Curso Superior em Ciência de Dados na UNIVESP </b> <br>
 
- - <b> Projeto 100 Exercícios de Python - Congelado </b> <br>
- Disponível em: https://github.com/Daniel-H-1/Projeto-Python
+ - <b> 11º Turma do DIO Campus Expert (Mar/2025) </b> <br>
+ Disponível em:
+
+- <b> Realizando os 4 Cursos gratuitos da Data Science Academy para desenvolvimento das habilidades de Analista de Dados </b> <br>
+  Cursos Disponíveis em: https://www.datascienceacademy.com.br/cursosgratuitos
 
 <br>
 
@@ -57,6 +60,4 @@
 <div align="center">
  <a target=_blank href="https://www.linkedin.com/in/daniel-h-s-l-junior">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a target="_blank" href="mailto:daniellheberjunior@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
