@@ -8,14 +8,12 @@
 
  - <b> Curso Superior em Ciência de Dados na UNIVESP </b> <br>
 
- - <b> 11º Turma do DIO Campus Expert (Mar/2025) </b> <br>
- Disponível em:
+ - <b> 11º Turma do DIO Campus Expert (Fevereiro e Março de 2025) </b> <br>
 
 - <b> Realizando os 4 Cursos gratuitos da Data Science Academy para desenvolvimento das habilidades de Analista de Dados </b> <br>
   Cursos Disponíveis em: https://www.datascienceacademy.com.br/cursosgratuitos
 
 <br>
-
 
  <h2 align="center">Principais Atividades Realizadas</h2>
  
