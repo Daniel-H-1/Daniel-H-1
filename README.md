@@ -30,7 +30,7 @@
  Disponível em: https://github.com/Daniel-H-1/DB-Imoveis
  
  - <b> Artigo Científico com Modelagem de Processos (Processamento de Linguagem Natural aplicada ao Sistema Acadêmico) <b> <br>
- Disponível em: https://drive.google.com/file/d/1odrU5INF2XXGSWnWl0isBHvHE7JPDT2N/view?usp=sharing
+ Disponível em: https://drive.google.com/file/d/1PKBxPDuuDGlVPoWy5ZbM2dpfdgN7Ay78/view?usp=drivesdk
 <br>
 
 <h2 align="center"> Comits e Linguagens </h2>
