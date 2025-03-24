@@ -29,7 +29,7 @@
  - <b> Projeto Acadêmico: Desenvolvimento de Banco de Dados Relacional (Banco Imóveis) </b> <br>
  Disponível em: https://github.com/Daniel-H-1/DB-Imoveis
  
- - <b> Artigo Científico com Modelagem de Processos (Processamento de Linguagem Natural aplicada ao Sistema Acadêmico) <b> <br>
+ - <b> Artigo Científico: Processamento de Linguagem Natural aplicada ao Sistema Acadêmico <b> <br>
  Disponível em: https://drive.google.com/file/d/1PKBxPDuuDGlVPoWy5ZbM2dpfdgN7Ay78/view?usp=drivesdk
 <br>
 
