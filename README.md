@@ -10,7 +10,7 @@
 
  - <b> 11º Turma do DIO Campus Expert (Fevereiro e Março de 2025) </b> <br>
 
-- <b> Realizando os 4 Cursos gratuitos da Data Science Academy para desenvolvimento das habilidades de Analista de Dados </b> <br>
+- <b> Realizando os 4 Cursos sobre Data Science e Data Analytics como Pré-Requisito para a Formação de Analista de Dados 4.0 na Data Science Academy </b> <br>
   Cursos Disponíveis em: https://www.datascienceacademy.com.br/cursosgratuitos
 
 <br>
