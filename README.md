@@ -23,10 +23,10 @@
   - <b> Certificado Profissional de Análise de Dados do Google <b><br>
  Disponível em: https://www.credly.com/badges/1268d3df-ffa2-4cd2-b840-db38aa8e10c4/public_url
 
- - <b> Capacitador da ferramenta Microsoft Excel (START UNISA) </b> <br>
- Disponível em: https://drive.google.com/file/d/1DMVfacifZ68g0fublhtFFQL9IoNQdDFR/view?usp=sharing
+ - <b> Projeto Voluntário (START UNISA) - Instrutor da ferramenta Microsoft Excel </b> <br>
+ Disponível em: https://drive.google.com/file/d/1lZws4cjVsFrCzomfT4KiFYxGr4lYSLlD/view?usp=drive_link
  
- - <b> Desenvolvimento de Banco de Dados Relacional (Banco Imóveis) </b> <br>
+ - <b> Projeto Acadêmico: Desenvolvimento de Banco de Dados Relacional (Banco Imóveis) </b> <br>
  Disponível em: https://github.com/Daniel-H-1/DB-Imoveis
  
  - <b> Artigo Científico com Modelagem de Processos (Processamento de Linguagem Natural aplicada ao Sistema Acadêmico) <b> <br>
