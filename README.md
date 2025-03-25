@@ -6,7 +6,7 @@
  
  - <b> Analista de TI trabalhando em Gestão de Capacidade & Performance na Porto </b> <br>
 
- - <b> Curso Superior em Ciência de Dados na UNIVESP </b> <br>
+ - <b> Graduando em Ciência de Dados na UNIVESP </b> <br>
 
  - <b> 11º Turma do DIO Campus Expert para Desenvolvimento das Soft Skills (Fevereiro e Março de 2025) </b> <br>
    Perfil Público da DIO: https://www.dio.me/users/danielheber0
