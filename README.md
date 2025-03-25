@@ -11,8 +11,7 @@
  - <b> 11º Turma do DIO Campus Expert (Fevereiro e Março de 2025) </b> <br>
    Perfil Público da DIO: https://www.dio.me/users/danielheber0
 
-- <b> Realizando os 4 Cursos sobre Data Science e Data Analytics como Pré-Requisito para a Formação de Analista de Dados 4.0 na Data Science Academy </b> <br>
---- [Fundamentos de Data Science e IA, Fundamentos da Engenharia de Dados, Fundamentos da Linguagem Python para Análise de Dados e Data Science e Microsoft Power BI para Business Intelligence e Data Science] <br>
+- <b> Aprendendo os Fundamentos de Data Science, IA, Engenharia de Dados, Python e Microsoft Power BI na Data Science Academy para desenvolvimento das Hard Skills <br>
   Cursos Disponíveis em: https://www.datascienceacademy.com.br/cursosgratuitos
 
 <br>
