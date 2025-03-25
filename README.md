@@ -34,10 +34,11 @@
  Disponível no Drive Pessoal: https://drive.google.com/file/d/1adZ33LiBUaM3NA6XPTHo3Jo7X7e-gh7k/view?usp=sharing
 <br>
 
-   - <b> Apresentação do Artigo no I Simpósio dos Cursos de Tecnologia da Informação na UNISA (JUNHO/2022) <b><br>
+   - <b> Apresentação do Artigo no I Simpósio dos Cursos de Tecnologia da Informação na UNISA (JUNHO/2022) </b><br>
   O Pôster apresentado está disponível no Drive Pessoal: https://drive.google.com/file/d/11e3shJLzFQNpNToeYGOEAdzDNA7SL6RU/view?usp=sharing
+<br>
 
- - <b> Artigo Científico: Processamento de Linguagem Natural aplicada ao Sistema Acadêmico (2º SEMESTRE/2021) <b> <br>
+ - <b> Artigo Científico: Processamento de Linguagem Natural aplicada ao Sistema Acadêmico (2º SEMESTRE/2021) </b> <br>
  Artigo disponível em: https://drive.google.com/file/d/1PKBxPDuuDGlVPoWy5ZbM2dpfdgN7Ay78/view?usp=drivesdk
 <br>
  
