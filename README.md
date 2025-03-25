@@ -8,7 +8,7 @@
 
  - <b> Curso Superior em Ciência de Dados na UNIVESP </b> <br>
 
- - <b> 11º Turma do DIO Campus Expert (Fevereiro e Março de 2025) </b> <br>
+ - <b> 11º Turma do DIO Campus Expert para Desenvolvimento das Soft Skills (Fevereiro e Março de 2025) </b> <br>
    Perfil Público da DIO: https://www.dio.me/users/danielheber0
 
 - <b> Aprendendo os Fundamentos de Data Science, IA, Engenharia de Dados, Python e Microsoft Power BI na plataforma da Data Science Academy para desenvolvimento das Hard Skills </b> <br>
