@@ -22,7 +22,7 @@
 
  <br>
 
-   - <b> Certificado Profissional de Análise de Dados do Google (JANEIRO/2023) </b><br>
+   - <b> Certificado Profissional de Análise de Dados do Google (JANEIRO/2023) </b> <br>
  Disponível em: https://www.credly.com/badges/1268d3df-ffa2-4cd2-b840-db38aa8e10c4/public_url
 <br>
 
@@ -38,7 +38,7 @@
  Artigo disponível em: https://drive.google.com/file/d/1PKBxPDuuDGlVPoWy5ZbM2dpfdgN7Ay78/view?usp=drivesdk
 <br>
 
- - <b> Projeto Voluntário (START UNISA) - Instrutor da ferramenta Microsoft Excel (JUNHO até DEZEMBRO/2021) </b> <br>
+ - <b> Projeto Voluntário (START UNISA): Instrutor da ferramenta Microsoft Excel (JUNHO até DEZEMBRO/2021) </b> <br>
  Certificado Disponível no Drive Pessoal: https://drive.google.com/file/d/1lZws4cjVsFrCzomfT4KiFYxGr4lYSLlD/view?usp=drive_link
 <br>
  
