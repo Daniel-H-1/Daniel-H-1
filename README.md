@@ -3,6 +3,8 @@
 <br>
 
  <h2 align="center">Principais Atividades Atualmente</h2>
+
+ <br>
  
  - <b> Analista de TI trabalhando em Gestão de Capacidade & Performance na Porto </b> <br>
 
@@ -17,6 +19,8 @@
 <br>
 
  <h2 align="center">Principais Atividades Realizadas</h2>
+
+ <br>
  
   - <b> Certificado na DP-900 (Data Azure Fundamentals) <b><br>
  Disponível em: https://www.credly.com/badges/2d0b864d-0776-4947-95d4-a4c5369a76f6
