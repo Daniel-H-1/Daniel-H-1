@@ -23,10 +23,12 @@
  <br>
 
    - <b> Certificado Profissional de Análise de Dados do Google (JANEIRO/2023) <b><br>
- Disponível em: https://www.credly.com/badges/1268d3df-ffa2-4cd2-b840-db38aa8e10c4/public_url <br>
+ Disponível em: https://www.credly.com/badges/1268d3df-ffa2-4cd2-b840-db38aa8e10c4/public_url
+<br>
 
   - <b> Certificação Microsoft Certified: Azure Data Fundamentals (JULHO/2022) <b><br>
- Disponível em: https://www.credly.com/badges/2d0b864d-0776-4947-95d4-a4c5369a76f6 <br>
+ Disponível em: https://www.credly.com/badges/2d0b864d-0776-4947-95d4-a4c5369a76f6
+<br>
 
    - <b> Graduado em Gestão da Tecnologia da Informação na UNISA (JUNHO/2022) <b><br>
  Disponível no Drive Pessoal: https://drive.google.com/file/d/1adZ33LiBUaM3NA6XPTHo3Jo7X7e-gh7k/view?usp=sharing <br>
