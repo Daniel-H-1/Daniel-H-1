@@ -1,4 +1,4 @@
-<h1> # Olá, sou o Daniel Heber da Silva Lima Junior! </h1>
+<h1 align="center"> Olá, sou o Daniel Heber da Silva Lima Junior! </h1>
 
 <br>
 
