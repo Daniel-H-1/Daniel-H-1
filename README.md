@@ -35,6 +35,9 @@
 <br>
 
 <h3> 2022 </h3>
+
+<br>
+
   - <b> Certificação Microsoft Certified: Azure Data Fundamentals (JULHO/2022) </b><br>
  Disponível em: https://www.credly.com/badges/2d0b864d-0776-4947-95d4-a4c5369a76f6
 <br>
@@ -48,6 +51,9 @@
 <br>
 
 <h3> 2021 </h3>
+
+<br>
+
  - <b> Artigo Científico: Processamento de Linguagem Natural aplicada ao Sistema Acadêmico </b> <br>
  Artigo disponível em: https://drive.google.com/file/d/1PKBxPDuuDGlVPoWy5ZbM2dpfdgN7Ay78/view?usp=drivesdk
 <br>
@@ -69,6 +75,9 @@
 <br>
 
 <h3> 2020 </h3>
+
+<br>
+
  - <b> Apresentação do Projeto no 23º Congresso de Iniciação Científica da UNISA: Aplicação da Lei Geral de Proteção de Dados “LGPD” nos Sistemas de Informação nas Organizações </b> <br>
  Projeto disponível no Drive Pessoal: https://drive.google.com/file/d/1zTSJX0tUZDQOijk_gGoVoa0KAw90hSR5/view?usp=sharing
 <br>
