@@ -25,7 +25,7 @@
    - <b> Graduado em Gestão da Tecnologia da Informação na UNISA <b><br>
  Disponível no Drive Pessoal: https://drive.google.com/file/d/1adZ33LiBUaM3NA6XPTHo3Jo7X7e-gh7k/view?usp=sharing
  
-  - <b> Certificação DP-900 (Data Azure Fundamentals) <b><br>
+  - <b> Certificação Microsoft Certified: Azure Data Fundamentals <b><br>
  Disponível em: https://www.credly.com/badges/2d0b864d-0776-4947-95d4-a4c5369a76f6
 
   - <b> Certificado Profissional de Análise de Dados do Google <b><br>
