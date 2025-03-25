@@ -6,7 +6,7 @@
 
  <br>
  
- - <b> Analista de TI trabalhando em Gestão de Capacidade & Performance na Porto. </b> <br>
+ - <b> Analista de TI trabalhando em Gestão de Capacidade & Performance na PORTO. </b> <br>
 
  - <b> Graduando em Ciência de Dados na UNIVESP (2023 á 2027). </b> <br>
 
@@ -38,7 +38,7 @@
 
 <br>
 
-  - <b> Participação da 15º Turma do Núcleo de Formação da TI da Porto. </b><br>
+  - <b> Participação da 15º Turma do Núcleo de Formação da TI da PORTO. </b><br>
 <br>
 
   - <b> Certificação Microsoft Certified: Azure Data Fundamentals. </b><br>
