@@ -11,7 +11,7 @@
  - <b> 11º Turma do DIO Campus Expert (Fevereiro e Março de 2025) </b> <br>
    Perfil Público da DIO: https://www.dio.me/users/danielheber0
 
-- <b> Aprendendo os Fundamentos de Data Science, IA, Engenharia de Dados, Python e Microsoft Power BI na plataforma da Data Science Academy para desenvolvimento das Hard Skills <br>
+- <b> Aprendendo os Fundamentos de Data Science, IA, Engenharia de Dados, Python e Microsoft Power BI na plataforma da Data Science Academy para desenvolvimento das Hard Skills </b> <br>
   Cursos Disponíveis em: https://www.datascienceacademy.com.br/cursosgratuitos
 
 <br>
