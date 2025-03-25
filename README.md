@@ -26,7 +26,7 @@
 
 <br>
 
-   - <b> Conquista da Bolsa de 100% para o Curso Superior Ciência de Dados na UNIVESP. </b> <br>
+   - <b> Conquista da Bolsa de 100% para o curso superior Ciência de Dados na UNIVESP. </b> <br>
 <br>
 
    - <b> Certificado Profissional de Análise de Dados do Google. </b> <br>
