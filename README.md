@@ -30,19 +30,18 @@
  Disponível em: https://www.credly.com/badges/2d0b864d-0776-4947-95d4-a4c5369a76f6
 <br>
 
-   - <b> Graduado em Gestão da Tecnologia da Informação na UNISA (JUNHO/2022) <b><br>
+   - <b> Graduado em Gestão da Tecnologia da Informação na UNISA (SETEMBRO/2022) <b><br>
  Disponível no Drive Pessoal: https://drive.google.com/file/d/1adZ33LiBUaM3NA6XPTHo3Jo7X7e-gh7k/view?usp=sharing
 <br>
 
- - <b> Artigo Científico: Processamento de Linguagem Natural aplicada ao Sistema Acadêmico (FEVEREIRO á JUNHO/2022) <b> <br>
+   - <b> Apresentação do Artigo no I Simpósio dos Cursos de Tecnologia da Informação na UNISA (JUNHO/2022) <b><br>
+  O Pôster apresentado está disponível no Drive Pessoal: https://drive.google.com/file/d/11e3shJLzFQNpNToeYGOEAdzDNA7SL6RU/view?usp=sharing
+
+ - <b> Artigo Científico: Processamento de Linguagem Natural aplicada ao Sistema Acadêmico (2º SEMESTRE/2021) <b> <br>
  Artigo disponível em: https://drive.google.com/file/d/1PKBxPDuuDGlVPoWy5ZbM2dpfdgN7Ay78/view?usp=drivesdk
 <br>
-
- - <b> Projeto Voluntário (START UNISA): Instrutor da ferramenta Microsoft Excel (JUNHO á DEZEMBRO/2021) </b> <br>
-   Certificado Disponível no Drive Pessoal: https://drive.google.com/file/d/1lZws4cjVsFrCzomfT4KiFYxGr4lYSLlD/view?usp=drive_link
-<br>
  
- - <b> Projeto Acadêmico: Desenvolvimento de Banco de Dados Relacional (Banco Imóveis) (2º SEMESTRE/2021) </b> <br>
+ - <b> Projeto Acadêmico: Criação e Manipulação de um Banco de Dados Relacional com MySQL (2º SEMESTRE/2021) </b> <br>
  Projeto disponível em: https://github.com/Daniel-H-1/DB-Imoveis
 <br>
 
@@ -50,8 +49,12 @@
  Projeto disponível no Drive Pessoal: https://drive.google.com/file/d/1QXVtKB2PebTtmb0vcQvANithE899WUbT/view?usp=sharing
 <br>
 
+ - <b> Projeto Voluntário (START UNISA): Instrutor da ferramenta Microsoft Excel (1º e 2º SEMESTRE/2021) </b> <br>
+   Certificado Disponível no Drive Pessoal: https://drive.google.com/file/d/1lZws4cjVsFrCzomfT4KiFYxGr4lYSLlD/view?usp=drive_link
+<br>
+
  - <b> Artigo Ciêntífico: Desenvolvimento de um Serviço de atendimento ao Cliente (SAC) focado em RPA e baseado nas boas práticas do ITIL (1º SEMESTRE/2021) </b> <br>
- Projeto disponível no Drive Pessoal: https://drive.google.com/file/d/1vNmyrSCcCa250ltdM1A2QS7ctqhvnH40/view?usp=sharing
+ Artigo disponível no Drive Pessoal: https://drive.google.com/file/d/1vNmyrSCcCa250ltdM1A2QS7ctqhvnH40/view?usp=sharing
 <br>
 
  - <b> Apresentação do Projeto no 23º Congresso de Iniciação Científica da UNISA: Aplicação da Lei Geral de Proteção de Dados “LGPD” nos Sistemas de Informação nas Organizações (2º SEMESTRE/2020) </b> <br>
