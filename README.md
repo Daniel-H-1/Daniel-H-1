@@ -34,12 +34,12 @@
  Disponível no Drive Pessoal: https://drive.google.com/file/d/1adZ33LiBUaM3NA6XPTHo3Jo7X7e-gh7k/view?usp=sharing
 <br>
 
- - <b> Artigo Científico: Processamento de Linguagem Natural aplicada ao Sistema Acadêmico (FEVEREIRO até JUNHO/2022) <b> <br>
+ - <b> Artigo Científico: Processamento de Linguagem Natural aplicada ao Sistema Acadêmico (FEVEREIRO á JUNHO/2022) <b> <br>
  Artigo disponível em: https://drive.google.com/file/d/1PKBxPDuuDGlVPoWy5ZbM2dpfdgN7Ay78/view?usp=drivesdk
 <br>
 
- - <b> Projeto Voluntário (START UNISA): Instrutor da ferramenta Microsoft Excel (JUNHO até DEZEMBRO/2021) </b> <br>
- Certificado Disponível no Drive Pessoal: https://drive.google.com/file/d/1lZws4cjVsFrCzomfT4KiFYxGr4lYSLlD/view?usp=drive_link
+ - <b> Projeto Voluntário (START UNISA): Instrutor da ferramenta Microsoft Excel (JUNHO á DEZEMBRO/2021) </b> <br>
+   Certificado Disponível no Drive Pessoal: https://drive.google.com/file/d/1lZws4cjVsFrCzomfT4KiFYxGr4lYSLlD/view?usp=drive_link
 <br>
  
  - <b> Projeto Acadêmico: Desenvolvimento de Banco de Dados Relacional (Banco Imóveis) (2º SEMESTRE/2021) </b> <br>
@@ -57,8 +57,6 @@
  - <b> Apresentação do Projeto no 23º Congresso de Iniciação Científica da UNISA: Aplicação da Lei Geral de Proteção de Dados “LGPD” nos Sistemas de Informação nas Organizações (2º SEMESTRE/2020) </b> <br>
  Projeto disponível no Drive Pessoal: https://drive.google.com/file/d/1zTSJX0tUZDQOijk_gGoVoa0KAw90hSR5/view?usp=sharing
 <br>
-
-
 
 
 <h2 align="center"> Comits e Linguagens </h2>
