@@ -49,7 +49,7 @@
  Disponível no Drive Pessoal: https://drive.google.com/file/d/1adZ33LiBUaM3NA6XPTHo3Jo7X7e-gh7k/view?usp=sharing
 <br>
 
-   - <b> Apresentação do Artigo no I Simpósio dos Cursos de Tecnologia da Informação na UNISA. </b><br>
+   - <b> Participação no I Simpósio dos Cursos de Tecnologia da Informação na UNISA, apresentando o artigo: Processamento de Linguagem Natural aplicada ao Sistema Acadêmico. </b><br>
   O Pôster apresentado está disponível no Drive Pessoal: https://drive.google.com/file/d/11e3shJLzFQNpNToeYGOEAdzDNA7SL6RU/view?usp=sharing
 <br>
 
