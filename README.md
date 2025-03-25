@@ -58,6 +58,8 @@
  Projeto disponível no Drive Pessoal: https://drive.google.com/file/d/1zTSJX0tUZDQOijk_gGoVoa0KAw90hSR5/view?usp=sharing
 <br>
 
+ - <b> Conquista da Bolsa de 100% para o Curso Superior Gestão da Tecnologia da Informação na UNISA pelo PROUNI com a Nota do ENEM (1º SEMESTRE/2020) </b> <br>
+<br>
 
 <h2 align="center"> Comits e Linguagens </h2>
 
