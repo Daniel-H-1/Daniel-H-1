@@ -66,11 +66,11 @@
  Projeto apresentado disponível no Drive Pessoal: https://drive.google.com/file/d/1QXVtKB2PebTtmb0vcQvANithE899WUbT/view?usp=sharing
 <br>
 
- - <b> Projeto Voluntário (START UNISA): Instrutor da ferramenta Microsoft Excel </b> <br>
+ - <b> Projeto Voluntário (START UNISA): Instrutor da ferramenta Microsoft Excel. </b> <br>
    Certificado Disponível no Drive Pessoal: https://drive.google.com/file/d/1lZws4cjVsFrCzomfT4KiFYxGr4lYSLlD/view?usp=drive_link
 <br>
 
- - <b> Artigo Ciêntífico: Desenvolvimento de um Serviço de atendimento ao Cliente (SAC) focado em RPA e baseado nas boas práticas do ITIL</b> <br>
+ - <b> Artigo Ciêntífico: Desenvolvimento de um Serviço de atendimento ao Cliente (SAC) focado em RPA e baseado nas boas práticas do ITIL. </b> <br>
  Artigo disponível no Drive Pessoal: https://drive.google.com/file/d/1vNmyrSCcCa250ltdM1A2QS7ctqhvnH40/view?usp=sharing
 <br>
 
@@ -78,11 +78,11 @@
 
 <br>
 
- - <b> Apresentação do Projeto no 23º Congresso de Iniciação Científica da UNISA: Aplicação da Lei Geral de Proteção de Dados “LGPD” nos Sistemas de Informação nas Organizações </b> <br>
+ - <b> Apresentação do Projeto no 23º Congresso de Iniciação Científica da UNISA: Aplicação da Lei Geral de Proteção de Dados “LGPD” nos Sistemas de Informação nas Organizações. </b> <br>
  Projeto disponível no Drive Pessoal: https://drive.google.com/file/d/1zTSJX0tUZDQOijk_gGoVoa0KAw90hSR5/view?usp=sharing
 <br>
 
- - <b> Conquista da Bolsa de 100% para o Curso Superior Gestão da Tecnologia da Informação na UNISA pelo PROUNI com a Nota do ENEM </b> <br>
+ - <b> Conquista da Bolsa de 100% para o Curso Superior Gestão da Tecnologia da Informação na UNISA pelo PROUNI com a Nota do ENEM. </b> <br>
 <br>
 
 <h2 align="center"> Comits e Linguagens </h2>
