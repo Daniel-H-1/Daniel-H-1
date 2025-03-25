@@ -22,7 +22,8 @@
 
  <br>
 
-   - <b> Certificado Profissional de Análise de Dados do Google (JANEIRO/2023) </b> <br>
+(JANEIRO/2023)
+   - <b> Certificado Profissional de Análise de Dados do Google </b> <br>
  Disponível em: https://www.credly.com/badges/1268d3df-ffa2-4cd2-b840-db38aa8e10c4/public_url
 <br>
 
