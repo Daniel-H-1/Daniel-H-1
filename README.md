@@ -6,11 +6,11 @@
 
  <br>
  
- - <b> Analista de TI trabalhando em Gestão de Capacidade & Performance na Porto </b> <br>
+ - <b> Analista de TI trabalhando em Gestão de Capacidade & Performance na Porto. </b> <br>
 
- - <b> Graduando em Ciência de Dados na UNIVESP (2023 á 2027) </b> <br>
+ - <b> Graduando em Ciência de Dados na UNIVESP (2023 á 2027). </b> <br>
 
- - <b> 11º Turma do DIO Campus Expert para Desenvolvimento das Soft Skills (Fevereiro á Março/2025) </b> <br>
+ - <b> 11º Turma do DIO Campus Expert para Desenvolvimento das Soft Skills (Fevereiro á Março/2025). </b> <br>
    Perfil Público da DIO: https://www.dio.me/users/danielheber0
 
  - <b> Aprendendo os Fundamentos de Data Science, IA, Engenharia de Dados, Python e Microsoft Power BI na plataforma da Data Science Academy para desenvolvimento das Hard Skills. </b> <br>
@@ -36,6 +36,9 @@
 
 <h3> 2022 </h3>
 
+<br>
+
+  - <b> Participação da 15º Turma do Núcleo de Formação da TI da Porto. </b><br>
 <br>
 
   - <b> Certificação Microsoft Certified: Azure Data Fundamentals. </b><br>
