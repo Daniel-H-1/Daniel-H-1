@@ -14,7 +14,7 @@
    Perfil Público da DIO: https://www.dio.me/users/danielheber0
 
 - <b> Aprendendo os Fundamentos de Data Science, IA, Engenharia de Dados, Python e Microsoft Power BI na plataforma da Data Science Academy para desenvolvimento das Hard Skills </b> <br>
-  Cursos Disponíveis em: https://www.datascienceacademy.com.br/cursosgratuitos
+  Cursos disponíveis em: https://www.datascienceacademy.com.br/cursosgratuitos
 
 <br>
 
@@ -23,7 +23,7 @@
  <br>
 
    - <b> Graduado em Gestão da Tecnologia da Informação na UNISA <b><br>
- Disponível em: https://www.credly.com/badges/2d0b864d-0776-4947-95d4-a4c5369a76f6
+ Disponível no Drive Pessoal: https://drive.google.com/file/d/1adZ33LiBUaM3NA6XPTHo3Jo7X7e-gh7k/view?usp=sharing
  
   - <b> Certificado na DP-900 (Data Azure Fundamentals) <b><br>
  Disponível em: https://www.credly.com/badges/2d0b864d-0776-4947-95d4-a4c5369a76f6
@@ -32,13 +32,13 @@
  Disponível em: https://www.credly.com/badges/1268d3df-ffa2-4cd2-b840-db38aa8e10c4/public_url
 
  - <b> Projeto Voluntário (START UNISA) - Instrutor da ferramenta Microsoft Excel </b> <br>
- Disponível em: https://drive.google.com/file/d/1lZws4cjVsFrCzomfT4KiFYxGr4lYSLlD/view?usp=drive_link
+ Certificado Disponível no Drive Pessoal: https://drive.google.com/file/d/1lZws4cjVsFrCzomfT4KiFYxGr4lYSLlD/view?usp=drive_link
  
  - <b> Projeto Acadêmico: Desenvolvimento de Banco de Dados Relacional (Banco Imóveis) </b> <br>
- Disponível em: https://github.com/Daniel-H-1/DB-Imoveis
+ Projeto disponível em: https://github.com/Daniel-H-1/DB-Imoveis
  
  - <b> Artigo Científico: Processamento de Linguagem Natural aplicada ao Sistema Acadêmico <b> <br>
- Disponível em: https://drive.google.com/file/d/1PKBxPDuuDGlVPoWy5ZbM2dpfdgN7Ay78/view?usp=drivesdk
+ Artigo disponível em: https://drive.google.com/file/d/1PKBxPDuuDGlVPoWy5ZbM2dpfdgN7Ay78/view?usp=drivesdk
 <br>
 
 <h2 align="center"> Comits e Linguagens </h2>
