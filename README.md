@@ -87,8 +87,8 @@
 
  - <b> Conquista da Bolsa de 100% para o Curso Superior Gestão da Tecnologia da Informação na UNISA pelo PROUNI com a Nota do ENEM. </b> <br>
 <br>
-
 <h2></h2>
+<br>
 <h2 align="center"> Comits e Linguagens </h2>
 
 <div align="center">
