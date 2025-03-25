@@ -24,6 +24,8 @@
 
 <h3> 2023 </h3>
 
+<br>
+
    - <b> Conquista da Bolsa de 100% para o Curso Superior Ciência de Dados na UNIVESP </b> <br>
  Disponível em: https://www.credly.com/badges/1268d3df-ffa2-4cd2-b840-db38aa8e10c4/public_url
 <br>
