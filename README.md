@@ -30,6 +30,16 @@
 
 <br>
 
+
+<h3> 2024 </h3>
+
+<br>
+
+  - <b> Evento Cloud Hero na empresa Porto - BigQuery Skills
+
+<br>
+
+
 <h3> 2023 </h3>
 
 <br>
