@@ -14,7 +14,7 @@
   Cursos disponíveis em: https://www.datascienceacademy.com.br/cursosgratuitos
 
  - <b> Projeto 100 Exercícios Python . </b> <br>
-  Repositório GitHub: 
+  Repositório GitHub: https://github.com/Daniel-H-1/Projeto-100_Exercicios_Python/tree/main
 
 <br>
 
