@@ -13,6 +13,9 @@
  - <b> Aprendendo os Fundamentos de Data Science, IA, Engenharia de Dados, Python e Microsoft Power BI na plataforma da Data Science Academy para desenvolvimento das Hard Skills. </b> <br>
   Cursos disponíveis em: https://www.datascienceacademy.com.br/cursosgratuitos
 
+ - <b> Projeto 100 Exercícios Python . </b> <br>
+  Repositório GitHub: 
+
 <br>
 
  <h2 align="center">Principais Atividades Realizadas</h2>
