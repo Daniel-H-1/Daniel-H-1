@@ -29,7 +29,7 @@
 
   - <b> Projeto Integrador I - UNIVESP - Mapeamento de Probelamas Urbanos em Osasco (Fevereiro á Maio/2025). </b> <br>
    Vídeo no Youtube: https://www.youtube.com/watch?v=B5YES4dOS3M  <br>
-   Relatório do Projeto: Em Breve...
+   Relatório do Projeto: https://drive.google.com/file/d/1pmclrLMiHLQZXjR-uT3KcMVJZbwC254M/view?usp=drive_link
 
   - <b> 11º Turma do DIO Campus Expert para Desenvolvimento das Soft Skills (Fevereiro á Março/2025). </b> <br>
    Perfil Público da DIO: https://www.dio.me/users/danielheber0
